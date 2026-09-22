@@ -4,6 +4,12 @@
 
 # مَسار | MASAR
 
+### Technology Snapshot
+
+**React • TypeScript • Vite • NestJS • Prisma • PostgreSQL • REST API • JWT • RBAC**
+
+**Focus:** HRMS • Workforce Management • ATS • Workflow Automation • HR Tech
+
 ## رحلة الموظف.. في منظومة واحدة
 ### The Complete Employee Journey in One Connected HR Platform
 
