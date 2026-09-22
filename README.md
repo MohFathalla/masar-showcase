@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/hero.png" alt="مَسار | MASAR — رحلة الموظف في منظومة واحدة" width="100%">
+</p>
+
 # مَسار | MASAR
 
 ## رحلة الموظف.. في منظومة واحدة
